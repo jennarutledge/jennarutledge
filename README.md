@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<p> 🌱 I’m currently learning all about GitHub. </p>
-<p> 📫 You can reach me here: jennarutledge@github.com </p>
-<p> ⚡ I'm a Brazilian jiu jitsu blue belt & proud animal rescue advocate. </p>
+<p> 😁 Engineering school brought me to GitHub but now I just work here </p>
+<p> 📫  jennarutledge@github.com </p>
+<p> ⚡  Brazilian jiu jitsu blue belt, dog mama of 2, manual transmission enthusiast </p>
 
 <p> 🎧 Today I've been listening to...
   
